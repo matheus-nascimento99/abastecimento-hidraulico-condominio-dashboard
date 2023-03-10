@@ -15,6 +15,7 @@ export const MotorItemContainer = styled.div`
     padding: 1rem;
     transition: 0.5s ease;
     border-radius: 0.5rem;
+    flex-wrap: wrap;
 
     :hover {
         background-color: #ddf1f7;
