@@ -12,7 +12,7 @@ export const BottomInformations = ({data}: Props) => {
     return (
         <Container>
             <InformationArea>
-                <Information>Pressao recalque: 8 bar</Information>
+                <Information>Pressão recalque: 8 bar</Information>
             </InformationArea>
         </Container>
     );
