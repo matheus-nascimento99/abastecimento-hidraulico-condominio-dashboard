@@ -180,7 +180,7 @@ Error generating stack: `+i.message+`
     }
 `,F0=le.h4`
     color: black;
-`,j0=({data:e})=>ee(D0,{children:ee($0,{children:ee(F0,{children:"Pressao recalque: 8 bar"})})}),M0=le.div`
+`,j0=({data:e})=>ee(D0,{children:ee($0,{children:ee(F0,{children:"Pressão recalque: 8 bar"})})}),M0=le.div`
     width: 100%;
     padding: 1rem;
     background-color: white;
