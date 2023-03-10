@@ -1,0 +1,1 @@
+export const DateFormatter = new Intl.DateTimeFormat('pt-BR', { dateStyle: 'full', timeStyle: 'medium', timeZone: 'America/Sao_Paulo' });
